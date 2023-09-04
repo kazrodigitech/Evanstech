@@ -1,0 +1,7 @@
+.navbar{
+    background-color: orangered;
+    display: flex;
+    justify-content: end;
+    margin: 50px;
+    
+}

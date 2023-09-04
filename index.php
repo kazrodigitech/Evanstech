@@ -3,10 +3,10 @@
 echo "hello world";
 ?>
 <?php
-ECHO "Hello World!<brk>";
-EcHo "Hello World!<brk>";
-echo "Hello World!<brk>";
-?>
+ECHO "Hello World!"."<brk>";
+EcHo "Hello World!"."<brk>";
+echo "Hello World!" ."<brk>";
+?> 
 <?php
 $color = "red";
 echo "My car is " . $color . "<br>";
